@@ -23,13 +23,22 @@ https://twitter.com/StephanSturges/status/1652660433193521152?s=20
 
 Grab the actual outputs on Kaggle, split into two repos because it exceeds the file size, here:
 
+part 1: https://www.kaggle.com/datasets/stephanst/all-of-english-wikipedia-sbert-embeddings-part1
+part 2: https://www.kaggle.com/datasets/stephanst/all-of-english-wikipedia-sbert-embeddings-part2
+
 # Support Wikipedia!
 
 Don't forget to support the Wikimedia foundation for all the great content https://donate.wikimedia.org
 
-# License
+# Licenses
 
-Copyright 2023 Stephan Sturges
+## Wikipedia
+
+All Wikipedia content is under various licenses, check here for details https://en.wikipedia.org/wiki/Wikipedia:Copyrights
+
+## This code
+
+All code in this repo is Copyright 2023 Stephan Sturges
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
